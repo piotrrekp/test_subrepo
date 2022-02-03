@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:piotrrekp/submodule_v1.git
 	branch = main
-	commit = 1f36386254eb97de16614c7ba56762645a625bd9
-	parent = 171bb45659675f12a6eb1eb72b6a40edf5d2260b
+	commit = 67c09056f5a710eeb3472c9fa674c74eac762db9
+	parent = 3814ecc29b7972f43d2d62e8c1d3f72c8ef59536
 	method = merge
 	cmdver = 0.4.3
